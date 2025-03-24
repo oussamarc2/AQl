@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/PersonTest.java" afterDir="false" />
+    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment="exo1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/emp/gl/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,17 +88,27 @@
       <option name="presentableId" value="Default" />
       <updated>1742810189081</updated>
     </task>
+    <task id="LOCAL-00001" summary="exo1">
+      <option name="closed" value="true" />
+      <created>1742812185322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742812185322</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exo1">
+      <option name="closed" value="true" />
+      <created>1742812421183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742812421183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/emp/gl/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exo1" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo1" />
   </component>
 </project>
