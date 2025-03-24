@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment="exo1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/StackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/emp/gl/Main.java" beforeDir="false" />
+    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment="exo2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +104,20 @@
       <option name="project" value="LOCAL" />
       <updated>1742812421183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exo2">
+      <option name="closed" value="true" />
+      <created>1742812728386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742812728386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exo1" />
-    <option name="LAST_COMMIT_MESSAGE" value="exo1" />
+    <MESSAGE value="exo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo2" />
   </component>
 </project>
