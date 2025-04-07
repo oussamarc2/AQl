@@ -1,6 +1,6 @@
 package org.emp.tp1.LineCoverageTest;
 
-import org.emp.tp1.Palindrome;
+import org.emp.tp1.Palindrome_Correction;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -10,27 +10,27 @@ class Palindrome_CorrectionTest {
 
     @Test
     void testPalindromeSimple() {
-        Assertions.assertTrue(Palindrome.isPalindrome("kayak"));
+        Assertions.assertTrue(Palindrome_Correction.isPalindrome("kayak"));
     }
 
     @Test
     void testPalindromeWithSpacesAndCase() {
-        assertTrue(Palindrome.isPalindrome("Esope reste ici et se repose"));
+        assertTrue(Palindrome_Correction.isPalindrome("Esope reste ici et se repose"));
     }
 
     @Test
     void testNotPalindrome() {
-        assertFalse(Palindrome.isPalindrome("bonjour"));
+        assertFalse(Palindrome_Correction.isPalindrome("bonjour"));
     }
 
     @Test
     void testEmptyString() {
-        assertTrue(Palindrome.isPalindrome(""));
+        assertTrue(Palindrome_Correction.isPalindrome(""));
     }
 
     @Test
     void testNullInput() {
-        assertThrows(NullPointerException.class, () -> Palindrome.isPalindrome(null));
+        assertThrows(NullPointerException.class, () -> Palindrome_Correction.isPalindrome(null));
     }
 
 }

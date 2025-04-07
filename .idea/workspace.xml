@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edb668fb-d86f-4569-a217-15f4d64834ca" name="Changes" comment="palindrome" />
+    <list default="true" id="edb668fb-d86f-4569-a217-15f4d64834ca" name="Changes" comment="palindrome">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/tp1/BranchCoverageTest/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/emp/tp1/LineCoverageTest/Palindrome_CorrectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/emp/tp1/LineCoverageTest/Palindrome_CorrectionTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\oussa\OneDrive\Desktop\khbich\AQL\TP01\AQL_tp01\htmlReport" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,9 +62,33 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.emp.tp1.BranchCoverageTest" />
       <recent name="org.emp.tp1.LineCoverageTest" />
       <recent name="org.emp.tp1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Palindrome_CorrectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AQL_tp01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.emp.tp1.LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.emp.tp1.LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="org.emp.tp1.LineCoverageTest.Palindrome_CorrectionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Palindrome_CorrectionTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744029548909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="palindrome">
+      <option name="closed" value="true" />
+      <created>1744029666440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744029666440</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -88,7 +131,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="palindrome" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AQL_tp01$PalindromeTest.ic" NAME="PalindromeTest Coverage Results" MODIFIED="1744029081999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/AQL_tp01$PalindromeTest.ic" NAME="PalindromeTest Coverage Results" MODIFIED="1744029954352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.emp.tp1.LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AQL_tp01$Palindrome_CorrectionTest.ic" NAME="Palindrome_CorrectionTest Coverage Results" MODIFIED="1744030150990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>org.emp.tp1.LineCoverageTest.*</FILTER>
     </SUITE>
   </component>
