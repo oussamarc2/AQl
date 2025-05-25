@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment=" exo1 bonus">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/MatrixTest.java" afterDir="false" />
+    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment=" exo2 bonus">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -46,6 +50,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP0/AQL_TP0&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oussa/OneDrive/Desktop/tp-sys-distrib/AQL_TP/src/main/java/org/emp/gl/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
@@ -154,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744020055163</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" exo2 bonus">
+      <option name="closed" value="true" />
+      <created>1744020417519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744020417519</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +178,7 @@
     <MESSAGE value="exo3+4 updated" />
     <MESSAGE value="exo05" />
     <MESSAGE value=" exo1 bonus" />
-    <option name="LAST_COMMIT_MESSAGE" value=" exo1 bonus" />
+    <MESSAGE value=" exo2 bonus" />
+    <option name="LAST_COMMIT_MESSAGE" value=" exo2 bonus" />
   </component>
 </project>
