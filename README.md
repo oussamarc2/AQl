@@ -209,4 +209,8 @@ mvn test
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+This project is licensed under the MIT License - see the LICENSE file for details. 
+>>>>>>> e6bba2213553fe914a61bb073491d47b04d43210
