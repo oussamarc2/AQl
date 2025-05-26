@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment=" exo2 bonus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
@@ -12,6 +13,43 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/emp/gl/Matrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/emp/gl/MatrixTest.java" afterDir="false" />
 >>>>>>> 955ad40c70c5711e8204cac8343432a6fe722589
+=======
+<<<<<<< HEAD
+    <list default="true" id="2a84b5e1-3582-443f-9ec6-164983e3e97e" name="Changes" comment="tp02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="2a84b5e1-3582-443f-9ec6-164983e3e97e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculatrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/api/UtilisateurApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Banque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/De.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Joueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/exception/DebitImpossibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/exception/JeuFermeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/game/impl/BanqueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CalculatriceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/game/JeuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/game/impl/JeuTestAvecBanqueReelle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/service/UserServiceTestEx3.java" afterDir="false" />
+>>>>>>> e6bba2213553fe914a61bb073491d47b04d43210
+=======
+    <list default="true" id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment=" exo2 bonus">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +60,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+<<<<<<< HEAD
         <option value="JUnit5 Test Class" />
+=======
+<<<<<<< HEAD
+=======
+        <option value="JUnit5 Test Class" />
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2wdPAhxoi21XT3YqJtnyhFsIEga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+=======
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -42,10 +102,68 @@
 }</component>
   <component name="ProjectId" id="2ul5C0IeFmHdUQVY8V0AEUO1Dut" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
+=======
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculatriceTest.executor": "Run",
+    "JUnit.UserServiceTest.executor": "Run",
+    "JUnit.java in TP02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+<<<<<<< HEAD
+    "last_opened_file_path": "C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP0",
+=======
+    "last_opened_file_path": "C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP02",
+>>>>>>> e6bba2213553fe914a61bb073491d47b04d43210
+    "onboarding.tips.debug.path": "C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP02/src/main/java/org/emp/gl/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oussa\OneDrive\Desktop\khbich\AQL\TP02" />
+      <recent name="C:\Users\oussa\OneDrive\Desktop\khbich\AQL\TP02\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in TP02">
+    <configuration name="CalculatriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatriceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in TP02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP02" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+=======
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;JUnit.CalculatorTest.add.executor&quot;: &quot;Run&quot;,
@@ -57,9 +175,13 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
 <<<<<<< HEAD
+<<<<<<< HEAD
     &quot;last_opened_file_path&quot;: &quot;C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP0/AQL_TP0&quot;,
 =======
 >>>>>>> 955ad40c70c5711e8204cac8343432a6fe722589
+=======
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oussa/OneDrive/Desktop/khbich/AQL/TP0/AQL_TP0&quot;,
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/oussa/OneDrive/Desktop/tp-sys-distrib/AQL_TP/src/main/java/org/emp/gl/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
@@ -85,19 +207,95 @@
       <option name="MAIN_CLASS_NAME" value="org.emp.gl.CalculatorTest" />
       <option name="METHOD_NAME" value="add" />
       <option name="TEST_OBJECT" value="method" />
+<<<<<<< HEAD
+=======
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JUnit.CalculatorTest.add" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="JUnit.java in TP02" />
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.CalculatriceTest" />
+=======
+        <item itemvalue="JUnit.CalculatorTest.add" />
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <changelist id="2a84b5e1-3582-443f-9ec6-164983e3e97e" name="Changes" comment="" />
+      <created>1746367838087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746367838087</updated>
+    </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00001" summary="tp02">
+      <option name="closed" value="true" />
+      <created>1748173282136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748173282136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tp02">
+      <option name="closed" value="true" />
+      <created>1748173364782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748173364782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tp02">
+      <option name="closed" value="true" />
+      <created>1748174156712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748174156712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tp02" />
+    <option name="LAST_COMMIT_MESSAGE" value="tp02" />
+  </component>
+=======
+    <servers />
+  </component>
+>>>>>>> e6bba2213553fe914a61bb073491d47b04d43210
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/emp/gl/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/UserServiceTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+=======
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
       <changelist id="fe983f4b-ea40-4089-930a-b70da6b1e716" name="Changes" comment="" />
       <created>1742810189081</created>
       <option name="number" value="Default" />
@@ -169,6 +367,9 @@
       <updated>1744020055163</updated>
     </task>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
     <task id="LOCAL-00009" summary=" exo2 bonus">
       <option name="closed" value="true" />
       <created>1744020417519</created>
@@ -178,9 +379,12 @@
       <updated>1744020417519</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+<<<<<<< HEAD
 =======
     <option name="localTasksCounter" value="9" />
 >>>>>>> 955ad40c70c5711e8204cac8343432a6fe722589
+=======
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,10 +396,16 @@
     <MESSAGE value="exo05" />
     <MESSAGE value=" exo1 bonus" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <MESSAGE value=" exo2 bonus" />
     <option name="LAST_COMMIT_MESSAGE" value=" exo2 bonus" />
 =======
     <option name="LAST_COMMIT_MESSAGE" value=" exo1 bonus" />
 >>>>>>> 955ad40c70c5711e8204cac8343432a6fe722589
+=======
+    <MESSAGE value=" exo2 bonus" />
+    <option name="LAST_COMMIT_MESSAGE" value=" exo2 bonus" />
+>>>>>>> f882bd80e61d4b7b7ba03ff0afb61d59cd3d5433
+>>>>>>> bc4ba478c2cb3aaf26adb1bd48524c016377aa8c
   </component>
 </project>
